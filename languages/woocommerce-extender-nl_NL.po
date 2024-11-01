@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Extender\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"extender\n"
+"POT-Creation-Date: 2017-01-03 20:42+0100\n"
+"PO-Revision-Date: 2017-01-03 20:43+0100\n"
+"Last-Translator: Pentagon Promotions <info@pentagonpromotions.nl>\n"
+"Language-Team: Pentagon Promotions <info@pentagonpromotions.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/options.php:37
+msgid "Regulation"
+msgstr "Regelgeving"
+
+#: admin/options.php:73
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: admin/options.php:79
+msgid "Checkout text"
+msgstr "Afreken tekst"
+
+#: admin/options.php:81
+msgid ""
+"The checkout button text, it should make it clear that there is an payment "
+"obligation."
+msgstr ""
+"De afreken knop tekst, deze tekst moet het aan de klant duidelijk maken dat "
+"er een betalingsverplichting is."
+
+#: admin/options.php:85
+msgid "Checkout notice"
+msgstr "Afreken kennisgeving"
+
+#: admin/options.php:87
+msgid "An additional text shown afther the checkout by the customer."
+msgstr ""
+"Een optionele tekst na het afreken proces voor de klant, hier kan evt. de "
+"mogelijkheid tot herroepping vermeld worden."
+
+#: woocommerce-extender.php:65
+msgid ""
+"Please install and activate WooCommerce before using WooCommerce Extender."
+msgstr ""
+"Installeer en activeer WooCommerce voordat u gebruik maakt van de "
+"WooCommerce Extender."
+
+#: woocommerce-extender.php:79
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: woocommerce-extender.php:83
+msgid "Settings"
+msgstr "Instellingen"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Extender"
+msgstr "WooCommerce Extender"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/woocommerce-extender/"
+msgstr "https://nl.wordpress.org/plugins/woocommerce-extender/"
+
+#. Description of the plugin/theme
+msgid ""
+"Customize your WooCommerce shop with options like custom order button text "
+"and more"
+msgstr ""
+"Personaliseer jouw WooCommerce webshop met opties zoals eigen teksten in de "
+"afreken knoppen en voldoe aan EU-regelgeving."
+
+#. Author of the plugin/theme
+msgid "PentagonPromotions"
+msgstr "PentagonPromotions"
+
+#. Author URI of the plugin/theme
+msgid "http://www.pentagonpromotions.nl/"
+msgstr "http://www.pentagonpromotions.nl/"
+
+#~ msgid "Customize"
+#~ msgstr "Personaliseer"
+
+#~ msgid "WooCommerce Extender Options"
+#~ msgstr "WooCommerce Extender Opties"
+
+#~ msgid "Checkout button text"
+#~ msgstr "Afreken knop tekst"
+
+#~ msgid "Order with payment obligation"
+#~ msgstr "Bestellen met betaalverplichting"
+
+#~ msgid "Change the text on the checkout button."
+#~ msgstr "Verander de tekst op de afreken knop."
+
+#~ msgid ""
+#~ "Our products can be returned free of charges within 14 days afther this "
+#~ "order. The cost of returning the orderd products are for your own account."
+#~ msgstr ""
+#~ "Onze producten kunt u binnen 14 dagen kosteloos retourneren. De kosten "
+#~ "voor het retoursturen van de producten zijn voor uw eigen rekening."
+
+#~ msgid "Add aditional information below the order form."
+#~ msgstr "Voeg aanvullende informatie toe onder het afreken formulier."
+
+#~ msgid "Description"
+#~ msgstr "Omschrijving"
+
+#~ msgid "Show progressbar"
+#~ msgstr "Voortgang weergeven"
+
+#~ msgid "Show coupons"
+#~ msgstr "Coupons weergeven"
+
+#~ msgid "Displays the coupon codes on the users account page."
+#~ msgstr "Weergeeft de coupons op de mijn account pagina"
+
+#~ msgid "Affiliate settings"
+#~ msgstr "Affiliate instellingen"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistieken"
+
+#~ msgid "Payout treshold"
+#~ msgstr "Uitbetalings drempel"
+
+#~ msgid "%1$s confirmed affiliate sales, <b>%2$s</b> open for payout."
+#~ msgstr ""
+#~ "%1$s bevestigde affiliate omzet, <b>%2$s</b> commissie open voor "
+#~ "uitbetaling."
+
+#~ msgid "No affiliate sales yet."
+#~ msgstr "Nog geen affiliate verkopen."
+
+#~ msgid "Add affiliate payout"
+#~ msgstr "Affiliate uitbetaling toevoegen"
+
+#~ msgid "Select a valid user"
+#~ msgstr "Selecteer een geldige gebruiker"
+
+#~ msgid "Insert a valid payout amount of atleast &euro; 0.01"
+#~ msgstr "Vul een geldig bedrag in van ten minste &euro; 0,01"
+
+#~ msgid "Payout is stored to: %s"
+#~ msgstr "De uitbetaling voor %s is verwerkt"
+
+#~ msgid "User"
+#~ msgstr "Gebruiker"
+
+#~ msgid "No affiliates found"
+#~ msgstr "Geen affiliates gevonden"
+
+#~ msgid "Amount"
+#~ msgstr "Bedrag"
+
+#~ msgid "Ex. VAT"
+#~ msgstr "Excl. BTW"
+
+#~ msgid "Remark"
+#~ msgstr "Opmerking"
+
+#~ msgid "Optional remark for this payment"
+#~ msgstr "Optionele opmerking voor deze uitbetaling"
+
+#~ msgid "Add payout"
+#~ msgstr "Uitbetaling toevoegen"
+
+#~ msgid "Waiting for payout"
+#~ msgstr "Wachtend op uitbetaling"
+
+#~ msgid "Affiliate"
+#~ msgstr "Affiliate"
+
+#~ msgid "Turnover"
+#~ msgstr "Omzet"
+
+#~ msgid "Payed commission"
+#~ msgstr "Betaalde commissie"
+
+#~ msgid "Unpaid commission"
+#~ msgstr "Onbetaalde commissie"
+
+#~ msgid "Payout"
+#~ msgstr "Uitbetaling"
+
+#~ msgid "Payouts"
+#~ msgstr "Uitbetalingen"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "All payouts"
+#~ msgstr "Alle uitbetalingen"
+
+#~ msgid "Affiliate codes"
+#~ msgstr "Affiliate codes"
+
+#~ msgid "%s %% commission, %s %% discount"
+#~ msgstr "%s %% commissie, %s %% korting"
+
+#~ msgid "Affiliate statistics"
+#~ msgstr "Affiliate statistieken"
+
+#~ msgid "Only confirmed orders are shown in this summary."
+#~ msgstr "Alleen bevestigden bestellingen worden in dit overzicht weergeven."
+
+#~ msgid "Total commission"
+#~ msgstr "Totale commissie"
+
+#~ msgid "Total revenue: %s"
+#~ msgstr "Totale omzet: %s"
+
+#~ msgid "Diplays only the latest 5 payouts."
+#~ msgstr "Weergeeft alleen de laatste 5 uitbetalingen."
+
+#~ msgid "Automatic discount for order %s"
+#~ msgstr "Automatische korting voor bestelling %s"
+
+#~ msgid ""
+#~ "You have earned %s with affiliate sales!<br/>This amount will be deducted "
+#~ "as a discount in this order."
+#~ msgstr ""
+#~ "U heeft %s verdiend met affiliate verkopen!<br/>Dit bedrag wordt bij uw "
+#~ "volgende bestelling automatisch verrekend als korting."
+
+#~ msgid "Affiliate sales"
+#~ msgstr "Affiliate verkopen"
+
+#~ msgid ""
+#~ "The total amount will be automatically subtracted from your next order."
+#~ msgstr ""
+#~ "Het totaal verdiende tegoed zal bij de volgende bestelling automatisch "
+#~ "verrekend worden."
+
+#~ msgid "No affiliate sales yet"
+#~ msgstr "Er zijn nog geen affiliate verkopen"
+
+#~ msgid "%1$s of %2$s achieved"
+#~ msgstr "%1$s van de %2$s verdiend"
+
+#~ msgid "Affiliate coupons"
+#~ msgstr "Affiliate coupons"
+
+#~ msgid "There are no coupons available."
+#~ msgstr "Er zijn geen coupons beschikbaar"
+
+#~ msgid "&euro; %s"
+#~ msgstr "&euro; %s"
+
+#~ msgid "Max. commission"
+#~ msgstr "Max. commissie"
+
+#~ msgid "User selection"
+#~ msgstr "Gebruikers selectie"
+
+#~ msgid "Only affects new affiliates."
+#~ msgstr "Heeft alleen effect op nieuwe affiliates."
+
+#~ msgid "All users"
+#~ msgstr "Alle gebruikers"
+
+#~ msgid "Affiliates"
+#~ msgstr "Affiliates"
